@@ -1,4 +1,4 @@
-This is a portfolio website I built in June-July 2024. 
+This is a portfolio website I built in June-July 2023. 
 I have used Next.js 13, Payload CMS, MongoDB, and GraphQL.
 
 This project is comprised of a cms application (the backend), and a web application (the frontend).
